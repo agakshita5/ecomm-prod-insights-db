@@ -41,8 +41,7 @@ This project analyzes an e-commerce dataset to uncover actionable insights aroun
 
 ## 👩🏻‍💻 How to view 
 
-- Download the excel file 'Ecommerce produt insights.xlsx'
-- 'Dashboard' Sheet represents the main dynamic dashboard.
+- https://1drv.ms/x/c/c810e78075130d65/IQDDwB9ZVBz1SLn5OsLwMlgSAXmB_te2S02N5zd8iirhkBc
 
 
 ## 📷 Dashboard Preview
